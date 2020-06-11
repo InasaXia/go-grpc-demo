@@ -20,21 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a3b2b5c-06b9-4731-8552-9a3b111e226b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Client/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/main/Client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/services/Hello.pb.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/Server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proto/Hello.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/Hello.pb.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/HelloService.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../simpleRPC/Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../simpleRPC/Client/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,6 +100,26 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
+    <state x="532" y="170" key="FileChooserDialogImpl" timestamp="1591888036139">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="532" y="170" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1591888036139" />
+    <state width="1112" height="128" key="GridCell.Tab.0.bottom" timestamp="1591888039752">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1112" height="128" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591888039752" />
+    <state width="1112" height="128" key="GridCell.Tab.0.center" timestamp="1591888039752">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1112" height="128" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591888039752" />
+    <state width="1112" height="128" key="GridCell.Tab.0.left" timestamp="1591888039752">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1112" height="128" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591888039752" />
+    <state width="1112" height="128" key="GridCell.Tab.0.right" timestamp="1591888039752">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1112" height="128" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591888039752" />
     <state x="464" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1591887036550">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

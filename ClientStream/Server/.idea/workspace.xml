@@ -20,27 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f77b0396-e6eb-4c66-9bf7-1242d5f36ce3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Client/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/.idea/Client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/main/Client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/services/Hello.pb.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/Server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proto/Hello.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/Hello.pb.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/HelloService.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ServerStream/Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ServerStream/Client/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ServerStream/Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ServerStream/Server/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../simpleRPC/Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../simpleRPC/Client/.idea/workspace.xml" afterDir="false" />
@@ -118,6 +97,26 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
+    <state x="548" y="173" key="FileChooserDialogImpl" timestamp="1591889214939">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="173" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1591889214939" />
+    <state width="1493" height="273" key="GridCell.Tab.0.bottom" timestamp="1591889217705">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="273" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591889217705" />
+    <state width="1493" height="273" key="GridCell.Tab.0.center" timestamp="1591889217704">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="273" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591889217704" />
+    <state width="1493" height="273" key="GridCell.Tab.0.left" timestamp="1591889217704">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="273" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591889217704" />
+    <state width="1493" height="273" key="GridCell.Tab.0.right" timestamp="1591889217704">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="273" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591889217704" />
     <state x="625" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1591888223737">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
