@@ -20,25 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7ec9904-4342-432f-9297-5de4a303e990" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Client/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/main/Client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/services/Hello.pb.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proto/Hello.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/Hello.pb.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/HelloService.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ClientStream/Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ClientStream/Client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ClientStream/Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ClientStream/Server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ServerStream/Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ServerStream/Client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ServerStream/Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ServerStream/Server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../simpleRPC/Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../simpleRPC/Client/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tlsClientStream/Server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tlsClientStream/Server/.idea/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tlsClientStream/Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tlsClientStream/Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tlsClientStream/Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tlsClientStream/Server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tlsClientStream/Server/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tlsClientStream/Server/main/Server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tlsClientStream/Server/proto/Hello.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tlsClientStream/Server/services/Hello.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tlsClientStream/Server/services/HelloService.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,11 +100,34 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="220" key="FileChooserDialogImpl" timestamp="1591939964488">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="553" y="220" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1591939964488" />
+    <state width="1114" height="147" key="GridCell.Tab.0.bottom" timestamp="1591890336843">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1114" height="147" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591890336843" />
+    <state width="1114" height="147" key="GridCell.Tab.0.center" timestamp="1591890336843">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1114" height="147" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591890336843" />
+    <state width="1114" height="147" key="GridCell.Tab.0.left" timestamp="1591890336843">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1114" height="147" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591890336843" />
+    <state width="1114" height="147" key="GridCell.Tab.0.right" timestamp="1591890336843">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1114" height="147" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591890336843" />
   </component>
 </project>
