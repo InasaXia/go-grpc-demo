@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="673d9b3b-87e9-407d-9dd0-cc63694388a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ClientStream/Client/Client02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/main/Client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/main/Client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/services/Hello.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client02/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client02/main/Client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client02/services/Hello.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/Hello.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/Hello.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/HelloService.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BidirectionalStream/Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BidirectionalStream/Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BidirectionalStream/Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BidirectionalStream/Server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClientStream/Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ClientStream/Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClientStream/Client/main/Client.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../ClientStream/Client/main/Client.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1dCqeizenht074zrwkHkAK95ySS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="250" key="FileChooserDialogImpl" timestamp="1591940552976">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="470" y="250" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1591940552976" />
+  </component>
+</project>
